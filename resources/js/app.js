@@ -37,7 +37,7 @@ Vue.component('side-bar', require('./components/SideBar.vue').default);
 
 import * as Vue from 'vue/dist/vue.common.js';
 
-window.appURL = 'http://127.0.0.1:8000/';
+window.appURL = window.location.protocol+'//'+window.location.hostname+(window.location.port ? ':'+window.location.port: '')+'/';
 
 const app = new Vue({
     el: '#app',

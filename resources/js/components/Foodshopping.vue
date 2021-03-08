@@ -10,7 +10,7 @@
         <el-table
           :data="articles"
           v-loading="loading"
-          style="width: 100%">
+          >
           <el-table-column
             prop="name"
             label="Nom"

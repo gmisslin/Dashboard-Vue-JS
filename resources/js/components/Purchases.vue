@@ -1,6 +1,6 @@
 <template>
     <div class="purchases">
-      Purchases
+      Achats (à venir)
     </div>
 </template>
 
