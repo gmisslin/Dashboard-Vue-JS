@@ -11,10 +11,10 @@
             <span>Jobs</span>
           </el-menu-item>
 
-          <el-menu-item index="/flats">
+          <!-- <el-menu-item index="/flats">
             <i class="el-icon-menu"></i>
             <span>Appartements</span>
-          </el-menu-item>
+          </el-menu-item> -->
           <el-menu-item index="/purchases">
             <i class="el-icon-document"></i>
             <span>Achats</span>

@@ -14,7 +14,7 @@
         </router-link>
 
       </el-col>
-      <el-col :span="6">
+      <!-- <el-col :span="6">
         <el-card class="box-card">
           <el-row type="flex" class="row-bg" justify="center">
             {{flats}}
@@ -23,7 +23,7 @@
             Appartements
           </el-row>
         </el-card>
-      </el-col>
+      </el-col> -->
       <el-col :span="6">
         <el-card class="box-card">
           <el-row type="flex" class="row-bg" justify="center">
